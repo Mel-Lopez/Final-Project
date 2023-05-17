@@ -1,9 +1,9 @@
 # This is a web page created for my Javascript I class
-#We were to make a webpage that was to be some sort of Javascript Quiz. I decided to make a knowledge quiz.
-#The requirements for the webpage are below. I got full points and an A in the class.
+We were to make a webpage that was to be some sort of Javascript Quiz. I decided to make a knowledge quiz.
+The requirements for the webpage are below. I got full points and an A in the class.
 
-#General Steps:
-#Plan and break down the requirements of this project into smaller tasks that you can demonstrate with HTML and JavaScript.
+General Steps:
+Plan and break down the requirements of this project into smaller tasks that you can demonstrate with HTML and JavaScript.
 #Your JavaScript game needs to have JavaScript as the subject of the entire game, but you might also want to wrap it up with a creative theme that reflects your own interests. Your game must be professional, but you can also dress it up with a creative theme.
 #Keep building your web page and modifying it with JavaScript until all requirements are accomplished.
 #Once the HTML and JavaScript are working, write CSS to add a pleasing and responsive web site per the details below as well as the amount of time and effort you want to put into this.
