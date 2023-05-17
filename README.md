@@ -4,10 +4,10 @@ The requirements for the webpage are below. I got full points and an A in the cl
 
 General Steps:
 Plan and break down the requirements of this project into smaller tasks that you can demonstrate with HTML and JavaScript.
-#Your JavaScript game needs to have JavaScript as the subject of the entire game, but you might also want to wrap it up with a creative theme that reflects your own interests. Your game must be professional, but you can also dress it up with a creative theme.
-#Keep building your web page and modifying it with JavaScript until all requirements are accomplished.
-#Once the HTML and JavaScript are working, write CSS to add a pleasing and responsive web site per the details below as well as the amount of time and effort you want to put into this.
-#For grading purposes, put your efforts into knocking off all of the JavaScript requirements included. But yes, demonstrate your own interests and creativity, also work hard on your theme so that the wording of your questions, your images, and your styles align.
+Your JavaScript game needs to have JavaScript as the subject of the entire game, but you might also want to wrap it up with a creative theme that reflects your own interests. Your game must be professional, but you can also dress it up with a creative theme.
+Keep building your web page and modifying it with JavaScript until all requirements are accomplished.
+Once the HTML and JavaScript are working, write CSS to add a pleasing and responsive web site per the details below as well as the amount of time and effort you want to put into this.
+For grading purposes, put your efforts into knocking off all of the JavaScript requirements included. But yes, demonstrate your own interests and creativity, also work hard on your theme so that the wording of your questions, your images, and your styles align.
 
 #Specifics:
 #Create a well-formed, semantically correct html page. Include appropriate wireframe tags.
